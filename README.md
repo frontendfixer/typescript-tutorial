@@ -6,15 +6,11 @@ You can also [check out](https://github.com/gitdagray/typescript-course) his Git
 
 ### Author Links
 
-👋 Hello, I'm Dave Gray.
+✅ [Check out his YouTube Channel](https://www.youtube.com/DaveGrayTeachesCode).
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+🚩 [Subscribe to his channel](https://bit.ly/3nGHmNn)
 
-🚩 [Subscribe to my channel](https://bit.ly/3nGHmNn)
-
-☕ [Buy Me A Coffee](https://buymeacoffee.com/DaveGray)
-
-🚀 Follow Me:
+🚀 Dave Gray Social Links:
 
 - [Twitter](https://twitter.com/yesdavidgray)
 - [LinkedIn](https://www.linkedin.com/in/davidagray/)
@@ -44,7 +40,6 @@ You can also [check out](https://github.com/gitdagray/typescript-course) his Git
 - [Typescript Official Site](https://www.typescriptlang.org/)
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
   - 🚀 [Github page](https://github.com/typescript-cheatsheets/react)
-- ✅ checkout[Dave Gray's Youtube channel](https://www.youtube.com/DaveGrayTeachesCode)
 
 ### Chapter 1 - Introduction, Setup & Config
 
