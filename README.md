@@ -4,9 +4,29 @@ This is a _collection_ of `code` from a Youtube video of [Dave Gray](https://git
 
 You can also [check out](https://github.com/gitdagray/typescript-course) his Github page for details lessons.
 
+### Author Links
+
+👋 Hello, I'm Dave Gray.
+
+✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+
+🚩 [Subscribe to my channel](https://bit.ly/3nGHmNn)
+
+☕ [Buy Me A Coffee](https://buymeacoffee.com/DaveGray)
+
+🚀 Follow Me:
+
+- [Twitter](https://twitter.com/yesdavidgray)
+- [LinkedIn](https://www.linkedin.com/in/davidagray/)
+- [Blog](https://yesdavidgray.com)
+- [Reddit](https://www.reddit.com/user/DaveOnEleven)
+
+---
+
 ## Jump to specific Chapter
 
 - [typescript-tutorial](#typescript-tutorial)
+  - [Author Links](#author-links)
   - [Jump to specific Chapter](#jump-to-specific-chapter)
   - [Resources](#resources)
     - [Chapter 1 - Introduction, Setup \& Config](#chapter-1---introduction-setup--config)
