@@ -43,7 +43,7 @@ You can also [check out](https://github.com/gitdagray/typescript-course) his Git
 
 ### Chapter 1 - Introduction, Setup & Config
 
-```ts
+```typescript
 let username = "Dave";
 console.log(username);
 
@@ -58,7 +58,7 @@ console.log(c * b);
 
 ### Chapter 2 - Basic Types
 
-```ts
+```typescript
 let myName: string = "Dave";
 let meaningOfLife: number;
 let isLoading: boolean;
@@ -81,7 +81,7 @@ let re: RegExp = /\w+/g;
 
 ### Chapter 3 - Arrays, Tuples, Objects & Enums
 
-```ts
+```typescript
 let stringArr = ["one", "hey", "Dave"];
 
 let guitars = ["Strat", "Les Paul", 5150];
@@ -161,7 +161,7 @@ console.log(Grade.U);
 
 ### Chapter 4 - Type Aliases, Literals, Functions & Never Type
 
-```ts
+```typescript
 // Type Aliases
 type stringOrNumber = string | number;
 
@@ -260,7 +260,7 @@ const numberOrString = (value: number | string): string => {
 
 ### Chapter 5 - Type Assertions & Type Casting
 
-```ts
+```typescript
 type One = string;
 type Two = string | number;
 type Three = "hello";
@@ -301,7 +301,7 @@ myImg.src;
 
 ### Chapter 6 - Classes & Interfaces
 
-```ts
+```typescript
 class Coder {
   secondLang!: string;
 
@@ -427,7 +427,7 @@ MyBands.data = ["Van Halen", 5150]; // must be string data
 
 ### Chapter 7 - Index Signatures & keyof Assertions
 
-```ts
+```typescript
 // Index Signatures
 
 // interface TransactionObj {
@@ -521,7 +521,7 @@ for (const revenue in monthlyIncomes) {
 
 ### Chapter 8 - Generics
 
-```ts
+```typescript
 const echo = <T>(arg: T): T => arg;
 
 //////////////////////////////////
@@ -685,7 +685,7 @@ console.log(myState.state);
 
 ### Chapter 9 - Utility Types
 
-```ts
+```typescript
 // Utility Types
 
 // Partial
